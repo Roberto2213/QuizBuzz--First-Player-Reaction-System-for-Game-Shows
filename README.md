@@ -83,9 +83,6 @@ Set `DEBUG_PRINT = True` to log incoming HID data. This is useful for extending 
 - Community trivia contests  
 
 ---
-
-Absolutely! Here's an additional section you can include in your README to help users make their Buzz! controller recognizable on Windows systems:
-
 ---
 
 ## 🧩 Making Buzz! Controllers Recognizable on Windows
